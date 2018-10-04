@@ -1,9 +1,9 @@
 # Knife Azure
 
 ## Description
-A [knife] (http://docs.opscode.com/knife.html) plugin to create,
+A [knife](http://docs.opscode.com/knife.html) plugin to create,
 delete, and enumerate
-[Windows Azure] (https://www.windowsazure.com)
+[Windows Azure](https://www.windowsazure.com)
 resources to be managed by Chef.
 
 ## Installation
